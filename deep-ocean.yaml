@@ -1,0 +1,18 @@
+scheme: "Deep Ocean"
+author: "fturcheti (based on base16-ocean and vim-deep-space)"
+base00: "1a1f23" # ----
+base01: "2a3037" # ---
+base02: "384047" # --
+base03: "4f5b63" # -
+base04: "707a8f" # +
+base05: "8c95a6" # ++
+base06: "a6acbf" # +++
+base07: "c0c8d8" # ++++
+base08: "9b5057" # red
+base09: "b86d56" # orange
+base0A: "dab467" # yellow
+base0B: "8ba178" # green
+base0C: "849494" # aqua
+base0D: "7c8792" # blue
+base0E: "937b8f" # purple
+base0F: "86665b" # brown
