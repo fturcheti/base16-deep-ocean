@@ -1,18 +1,18 @@
 scheme: "Deep Ocean"
 author: "fturcheti (based on base16-ocean and vim-deep-space)"
-base00: "1a1f23" # ----
-base01: "2a3037" # ---
-base02: "384047" # --
-base03: "4f5b63" # -
-base04: "707a8f" # +
-base05: "8c95a6" # ++
-base06: "a6acbf" # +++
-base07: "c0c8d8" # ++++
-base08: "9b5057" # red
-base09: "b86d56" # orange
-base0A: "dab467" # yellow
-base0B: "8ba178" # green
-base0C: "849494" # aqua
-base0D: "7c8792" # blue
-base0E: "937b8f" # purple
-base0F: "86665b" # brown
+base00: "1a1f23"   #   #1a1f23   hsl(207, 15%, 12%)   ----
+base01: "2a3037"   #   #2a3037   hsl(212, 13%, 19%)   ---
+base02: "384047"   #   #384047   hsl(208, 12%, 25%)   --
+base03: "4f5b63"   #   #4f5b63   hsl(204, 11%, 35%)   -
+base04: "707a8f"   #   #707a8f   hsl(221, 12%, 50%)   +
+base05: "8c95a6"   #   #8c95a6   hsl(219, 13%, 60%)   ++
+base06: "a6acbf"   #   #a6acbf   hsl(226, 16%, 70%)   +++
+base07: "c0c8d8"   #   #c0c8d8   hsl(220, 24%, 80%)   ++++
+base08: "9b5057"   #   #8f5b61   hsl(354, 22%, 46%)   red
+base09: "b86d56"   #   #ac7362   hsl( 14, 31%, 53%)   orange
+base0A: "dab467"   #   #beaa83   hsl( 40, 31%, 63%)   yellow
+base0B: "8ba178"   #   #8c9583   hsl( 92,  8%, 55%)   green
+base0C: "849494"   #   #849494   hsl(180,  7%, 55%)   aqua
+base0D: "7c8792"   #   #7c8792   hsl(210,  9%, 53%)   blue
+base0E: "937b8f"   #   #937b8f   hsl(310, 10%, 53%)   purple
+base0F: "86665b"   #   #86665b   hsl( 15, 19%, 44%)   brown
